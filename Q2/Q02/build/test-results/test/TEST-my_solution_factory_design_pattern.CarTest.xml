@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="my_solution_factory_design_pattern.CarTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-14T08:33:11" hostname="DESKTOP-GKH67VB" time="0.013">
+<testsuite name="my_solution_factory_design_pattern.CarTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-14T10:02:21" hostname="DESKTOP-GKH67VB" time="0.009">
   <properties/>
-  <testcase name="checkCarwheels4_trueReturn" classname="my_solution_factory_design_pattern.CarTest" time="0.003"/>
+  <testcase name="checkCarwheels4_trueReturn" classname="my_solution_factory_design_pattern.CarTest" time="0.002"/>
   <testcase name="checkCarPassenger_trueReturn" classname="my_solution_factory_design_pattern.CarTest" time="0.0"/>
   <testcase name="checkCar_gasNeed_trueReturn" classname="my_solution_factory_design_pattern.CarTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>

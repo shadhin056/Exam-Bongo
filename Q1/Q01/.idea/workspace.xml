@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d187cb62-8bc0-4eca-a813-b2aaa60dbc8e" name="Default Changelist" comment="" />
+    <list default="true" id="d187cb62-8bc0-4eca-a813-b2aaa60dbc8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/AnagramsFinderTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/AnagramsFinderTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-AnagramsFinderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-AnagramsFinderTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,23 +31,7 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Q01" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Q01" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Q01" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -51,7 +49,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1WN7h2XwPNIFkSUpltcQDWs8flI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -63,7 +65,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="last_opened_file_path" value="D:/Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -135,6 +137,7 @@
       <updated>1578978313769</updated>
       <workItem from="1578978316414" duration="1735000" />
       <workItem from="1578988553962" duration="1722000" />
+      <workItem from="1578996017695" duration="45000" />
     </task>
     <servers />
   </component>
@@ -146,22 +149,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="28" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1578978393847" />
-    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1578990374980">
+    <state width="1323" height="115" key="GridCell.Tab.0.bottom" timestamp="1578996062431">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578990374980" />
-    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1578990374980">
+    <state width="1323" height="115" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578996062431" />
+    <state width="1323" height="115" key="GridCell.Tab.0.center" timestamp="1578996062431">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578990374980" />
-    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1578990374980">
+    <state width="1323" height="115" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578996062431" />
+    <state width="1323" height="115" key="GridCell.Tab.0.left" timestamp="1578996062431">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578990374980" />
-    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1578990374980">
+    <state width="1323" height="115" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578996062431" />
+    <state width="1323" height="115" key="GridCell.Tab.0.right" timestamp="1578996062431">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578990374980" />
+    <state width="1323" height="115" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578996062431" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1578988646997">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="589449b8-4c16-436b-b5be-8b621f2e99a3" name="Default Changelist" comment="" />
+    <list default="true" id="589449b8-4c16-436b-b5be-8b621f2e99a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Q1/Q01/.idea/Q01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Q02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/build/reports/tests/test/classes/AnagramsFinderTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/build/reports/tests/test/classes/AnagramsFinderTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/build/test-results/test/TEST-AnagramsFinderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/build/test-results/test/TEST-AnagramsFinderTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Q1/Q01/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Q1/Q01/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/my_solution_factory_design_pattern.CarTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/my_solution_factory_design_pattern.CarTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/my_solution_factory_design_pattern.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/my_solution_factory_design_pattern.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-my_solution_factory_design_pattern.CarTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-my_solution_factory_design_pattern.CarTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +48,11 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1WNWSBhjxO3oGmSiCVA01IaX9li" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,11 +60,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/my_solution_factory_design_pattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Gradle.CarTest">
     <configuration name="CarTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -97,6 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578990529194</updated>
       <workItem from="1578990533303" duration="266000" />
+      <workItem from="1578996075726" duration="70000" />
     </task>
     <servers />
   </component>
@@ -104,22 +146,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1578990790103">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1578996146350">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578990790103" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1578990790103">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578996146350" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1578996146350">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578990790103" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1578990790103">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578996146350" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1578996146350">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578990790103" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1578990790103">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578996146350" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1578996146350">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578990790103" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578996146350" />
     <state x="443" y="73" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578990701956">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
