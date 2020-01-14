@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d187cb62-8bc0-4eca-a813-b2aaa60dbc8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Q01" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Q01" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Q01" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Q01" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WN7h2XwPNIFkSUpltcQDWs8flI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="D:/Project" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.AnagramsFinderTest">
+    <configuration name="AnagramsFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnagramsFinder" />
+      <module name="Q01.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramsFinderTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AnagramsFinderTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AnagramsFinderTest" />
+        <item itemvalue="Application.AnagramsFinder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d187cb62-8bc0-4eca-a813-b2aaa60dbc8e" name="Default Changelist" comment="" />
+      <created>1578978313769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578978313769</updated>
+      <workItem from="1578978316414" duration="1735000" />
+      <workItem from="1578988553962" duration="1722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="28" key="#Project_Structure" timestamp="1578978393847">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="28" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1578978393847" />
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1578990374980">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578990374980" />
+    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1578990374980">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578990374980" />
+    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1578990374980">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578990374980" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1578990374980">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578990374980" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1578988646997">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1578988646997" />
+    <state x="454" y="73" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578989591191">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="454" y="73" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1578989591191" />
+    <state x="65" y="0" key="new project wizard" timestamp="1578989014366">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1578989014366" />
+  </component>
+</project>

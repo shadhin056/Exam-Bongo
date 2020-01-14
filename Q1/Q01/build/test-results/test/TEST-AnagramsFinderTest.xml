@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnagramsFinderTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-01-14T08:25:48" hostname="DESKTOP-GKH67VB" time="0.011">
+  <properties/>
+  <testcase name="checkAnagram_lengthNotSame_falseReturn" classname="AnagramsFinderTest" time="0.004"/>
+  <testcase name="checkAnagram_withUppercaseLowercaseCheck_trueReturn" classname="AnagramsFinderTest" time="0.0"/>
+  <testcase name="checkAnagram_withEmptyStringAndString_falseReturn" classname="AnagramsFinderTest" time="0.003"/>
+  <testcase name="checkAnagram_withLengthSameButNotValidCheck_falseReturn" classname="AnagramsFinderTest" time="0.0"/>
+  <testcase name="checkAnagram_withSpaceValidCheck_trueReturn" classname="AnagramsFinderTest" time="0.0"/>
+  <testcase name="checkAnagram_emptyString_falseWarningReturn" classname="AnagramsFinderTest" time="0.001"/>
+  <system-out><![CDATA[Please input valid string
+Please input valid string
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
